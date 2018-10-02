@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Seko
+Comment=Seko P2P Cryptocurrency
+Comment[fr]=Seko, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Seko, eşten eşe kriptografik sanal para birimi
+Exec=seko-qt %u
+Terminal=false
+Type=Application
+Icon=seko128
+MimeType=x-scheme-handler/seko;
+Categories=Office;Finance;

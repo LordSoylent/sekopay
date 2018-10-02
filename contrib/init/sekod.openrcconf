@@ -1,0 +1,26 @@
+# /etc/conf.d/sekod: config file for /etc/init.d/sekod
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/seko/seko.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/sekod"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/sekod.pid"
+
+# Where to write sekod data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/sekod"
+
+# User and group to own sekod process
+#BITCOIND_USER="seko"
+#BITCOIND_GROUP="seko"
+
+# Path to sekod executable
+#BITCOIND_BIN="/usr/bin/sekod"
+
+# Nice value to run sekod under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

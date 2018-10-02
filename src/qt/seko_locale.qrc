@@ -1,0 +1,30 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/seko_bg.qm</file>
+        <file alias="ca">locale/seko_ca.qm</file>
+        <file alias="cs">locale/seko_cs.qm</file>
+        <file alias="da">locale/seko_da.qm</file>
+        <file alias="de">locale/seko_de.qm</file>
+        <file alias="en">locale/seko_en.qm</file>
+        <file alias="en_US">locale/seko_en_US.qm</file>
+        <file alias="es">locale/seko_es.qm</file>
+        <file alias="fi">locale/seko_fi.qm</file>
+        <file alias="fr_FR">locale/seko_fr_FR.qm</file>
+        <file alias="hr">locale/seko_hr.qm</file>
+        <file alias="it">locale/seko_it.qm</file>
+        <file alias="ja">locale/seko_ja.qm</file>
+        <file alias="ko_KR">locale/seko_ko_KR.qm</file>
+        <file alias="nl">locale/seko_nl.qm</file>
+        <file alias="pl">locale/seko_pl.qm</file>
+        <file alias="pt">locale/seko_pt.qm</file>
+        <file alias="pt_BR">locale/seko_pt_BR.qm</file>
+        <file alias="ro_RO">locale/seko_ro_RO.qm</file>
+        <file alias="ru">locale/seko_ru.qm</file>
+        <file alias="sk">locale/seko_sk.qm</file>
+        <file alias="sv">locale/seko_sv.qm</file>
+        <file alias="tr">locale/seko_tr.qm</file>
+        <file alias="uk">locale/seko_uk.qm</file>
+        <file alias="zh_CN">locale/seko_zh_CN.qm</file>
+        <file alias="zh_TW">locale/seko_zh_TW.qm</file>
+    </qresource>
+</RCC>

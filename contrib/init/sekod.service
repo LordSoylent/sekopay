@@ -1,0 +1,26 @@
+[Unit]
+Description=Seko's distributed currency daemon
+After=network.target
+
+[Service]
+User=seko
+Group=seko
+
+Type=forking
+PIDFile=/var/lib/sekod/sekod.pid
+
+ExecStart=/usr/bin/sekod -daemon -pid=/var/lib/sekod/sekod.pid \
+          -conf=/etc/seko/seko.conf -datadir=/var/lib/sekod
+
+ExecStop=-/usr/bin/seko-cli -conf=/etc/seko/seko.conf \
+         -datadir=/var/lib/sekod stop
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target
