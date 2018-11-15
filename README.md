@@ -74,4 +74,6 @@ Proof of Stake 30%
 
 More information at (http://www.sekopay.com)
 
+Block Explorer (https://blocks.sekopay.co.uk/)
+
 * Premined SEKO to enable swap & Presale, All unsold SEKO will be burned after Presale.
