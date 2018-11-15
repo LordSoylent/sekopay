@@ -74,4 +74,4 @@ Proof of Stake 30%
 
 More information at (http://www.sekopay.com)
 
-* Premined SEKO to enable swap & Presale, All unsold SEkO will be burned after Presale.
+* Premined SEKO to enable swap & Presale, All unsold SEKO will be burned after Presale.
