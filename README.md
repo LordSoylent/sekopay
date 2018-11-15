@@ -17,7 +17,7 @@ More information at (http://www.sekopay.com)
 <tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
 <tr><td>Max Coin Supply (PoW Phase)</td><td>500 SEKO</td></tr>
 <tr><td>Max Coin Supply (PoS Phase)</td><td>25m</td></tr>
-<tr><td>Premine</td><td> TBC *</td></tr>
+<tr><td>Premine</td><td> 3,300,000 *</td></tr>
 </table>
 
 P2P-Port = 	4786
