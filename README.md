@@ -65,10 +65,10 @@ Proof of Stake 30%
 <tr><td>Phase 23</td><td>210000-220000</td><td>26 SEKO</td></tr>
 <tr><td>Phase 24</td><td>220000-230000</td><td>24 SEKO</td></tr>
 <tr><td>Phase 25</td><td>230000-240000</td><td>22 SEKO</td></tr>
-<tr><td>Phase 25</td><td>240000-250000</td><td>20 SEKO</td></tr>
-<tr><td>Phase 25</td><td>250000-260000</td><td>17 SEKO</td></tr>
-<tr><td>Phase 25</td><td>260000-270000</td><td>15 SEKO</td></tr>
-<tr><td>Phase 25</td><td>270000-280000</td><td>13 SEKO</td></tr>
+<tr><td>Phase 26</td><td>240000-250000</td><td>20 SEKO</td></tr>
+<tr><td>Phase 27</td><td>250000-260000</td><td>17 SEKO</td></tr>
+<tr><td>Phase 28</td><td>260000-270000</td><td>15 SEKO</td></tr>
+<tr><td>Phase 29</td><td>270000-280000</td><td>13 SEKO</td></tr>
 </table>
 
 
